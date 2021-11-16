@@ -1,0 +1,37 @@
+body {
+    background-color:#ecf391 ;
+}
+h1 {
+color: #ff0000;
+background-color:white ;
+}
+h2 {
+    color: saddlebrown;
+    background-color: yellowgreen;
+}
+p {
+    color: midnightblue;
+    background-color: turquoise;
+}
+.p1 {
+    color: rgb(6, 51, 19);
+    background-color:rgb(130, 230, 130) ;
+}
+ol {
+    background-color: rgb(223, 198, 208);
+}
+.item1 {
+    color: rgb(183, 0, 255);
+}
+.item2 {
+    color: rgb(76, 184, 34);
+}
+.item3 {
+    color:rgb(196, 20, 93);
+}
+.item4 { 
+    color: orangered;
+}
+.item5 {
+    color: rgb(10, 40, 131);
+}
